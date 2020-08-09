@@ -1,10 +1,11 @@
 #### 1. Matlab
 #1.1 Generate time-frequency features of close price, and labels
-cd ./ITD
+cd ./src/ITD
 # It is more convenient to operate in the graphical interface environment of Matlab
 # run sliding_itd(date,close, 50, 6,1), where date and close denote the trading date and the daily close price.
 
 #### 2. Python
+cd ./src
 # 2.1 News abstract
 python news_abstract_sina_baidu.py 1>../data/300676_sina_baidu_wind_abstract.txt
 
