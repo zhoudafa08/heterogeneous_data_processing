@@ -1,5 +1,3 @@
-# heterogenous_data_processing 
-
 # Attention-based LSTM network with multi-source heterogeneous information fusion: An application to the BGI Genomics. 
 The code of the manuscript that has been submitted in Information Science on July 2, 2020.
 
