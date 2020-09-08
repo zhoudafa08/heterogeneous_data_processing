@@ -1,5 +1,5 @@
-# Attention-based LSTM network with multi-source heterogeneous information fusion: An application to the BGI Genomics. 
-The code of the manuscript that has been submitted in Information Science on July 2, 2020.
+# Attention enhanced long short-term memory network with multi-source heterogeneous information fusion: An application to the BGI Genomics. 
+The code of the manuscript that has been submitted in Information Sciences on July 2, 2020.
 
 # Requirements
 1. Matlab R2014b
